@@ -7,7 +7,7 @@
 
   <h1>MPlay Music Player</h1>
 
-  <p>MPlay is a music player project developed using <a href="https://github.com">GitHub</a> repository. It is a simple and lightweight music player designed to provide a seamless music listening experience on various platforms. This README file provides information about the project and instructions on how to use and contribute to MPlay.</p>
+  <p>MPlay is a music player project developed using Android Studio <a href="https://github.com">GitHub</a>. It is a simple and lightweight music player designed to provide a seamless music listening experience on Android platform. This README file provides information about the project and instructions on how to use and contribute to MPlay.</p>
 
   <h2>Features</h2>
 
